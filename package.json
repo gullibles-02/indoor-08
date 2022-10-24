@@ -1,10 +1,13 @@
 {
-  "name": "N4XzzGJj5hdKavzXNpGTXkjbAIj6iFkfpYNExuQh49bLaYm97H",
+  "name": "เว็บไซต์พนัน - เว็บพนัน play168(เพลล์168) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.5",
   "description": "เว็บไซต์พนัน สมัครแทงหวยลุ้นรางวัลใหญ่ได้แล้ววันนี้ ใน เว็บไซต์พนัน ที่ Play168 เว็บพนัน มีเกมพนันทุกชนิด เว็บ เว็บไซต์พนัน หวย จ่าย แพง ที่สุด เปิดให้เล่น",
   "repository": "https://github.com/gullibles-02/indoor-08",
-  "keywords": ["เว็บไซต์พนัน","เว็บไซต์พนัน Play168"],
+  "keywords": [
+    "เว็บไซต์พนัน",
+    "เว็บไซต์พนัน Play168"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
