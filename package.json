@@ -1,10 +1,13 @@
 {
-  "name": "gUT7kVzHWy1nuf6G9kewmGADORqQKh6ehX0n9imDHFCwfY4yjf",
+  "name": "เว็บแทงบอล - เว็บพนัน pg168(พีจี168) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.10",
   "description": "เว็บแทงบอล รีวิวเกมสล็อต และ เว็บแทงบอล ที่ PG168 เว็บพนัน มีเกมพนันทุกชนิด Roma X เกมสล็อตโรม่าภาค 2 จากค่ายเกมดัง Jili Slot เว็บแทงบอล ที่พัฒนาขึ้นมาจากเ",
   "repository": "https://github.com/gullibles-02/indoor-08",
-  "keywords": ["เว็บแทงบอล","เว็บแทงบอล PG168"],
+  "keywords": [
+    "เว็บแทงบอล",
+    "เว็บแทงบอล PG168"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
