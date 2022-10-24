@@ -1,13 +1,10 @@
 {
-  "name": "เว็บพนันบอล - เว็บพนัน 1688sagame(1688เอสเอเกมส์) สมัครฟรี เครดิตฟรี ที่นี้",
+  "name": "gE2dlwSZk6WI1Iizg3XPOGMsghh5JfRGvGL8LabJgw9pSdFroP",
   "theme": "syntax",
   "version": "1.0.9",
   "description": "เว็บพนันบอล Naka ว่า เว็บพนันบอล 1688SAGame เว็บพนันออนไลน์ อันดับหนึ่ง 77 คือ เว็บหวยออนไลน์ของคนไทยขนาดใหญ่ที่เปิดให้บริการกันแบบไม่มีวันหยุดทั้ง 7 วันตล",
   "repository": "https://github.com/gullibles-02/indoor-08",
-  "keywords": [
-    "เว็บพนันบอล",
-    "เว็บพนันบอล 1688SAGame"
-  ],
+  "keywords": ["เว็บพนันบอล","เว็บพนันบอล 1688SAGame"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
