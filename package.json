@@ -1,13 +1,10 @@
 {
-  "name": "เว็บพนันกีฬา - เว็บพนัน 818king(818คิงส์) สมัครฟรี เครดิตฟรี ที่นี้",
+  "name": "dEXBnWcgOZ1QC0hrNMGzxGiBJUc07VThob5EdMn7WqEYSHvsgr",
   "theme": "syntax",
   "version": "1.0.12",
   "description": "เว็บพนันกีฬา A หรือ เว็บพนันกีฬา ที่ 818King เว็บพนัน อันดับหนึ่ง เริ่มต้นฝากขั้นต่ำเพียง 100 เว็บพนันกีฬา บาท และการเล่นขั้นต่ำขึ้นอยู่กับเราว่าเกมที่เราเ",
   "repository": "https://github.com/gullibles-02/indoor-08",
-  "keywords": [
-    "เว็บพนันกีฬา",
-    "เว็บพนันกีฬา 818King"
-  ],
+  "keywords": ["เว็บพนันกีฬา","เว็บพนันกีฬา 818King"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
