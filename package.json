@@ -1,10 +1,13 @@
 {
-  "name": "dyigZAjUYq0y5OtCbStdevypnxYKg0pzwUDWLTwFFPGyVriMww",
+  "name": "ไก่ชน เล่นที่ไหน",
   "theme": "syntax",
   "version": "1.0.21",
   "description": "ไก่ชน เพราะเว็บไซต์ เนื่องด้วย ไก่ชน ที่ Slot888 เว็บพนัน มีเกมพนันทุกชนิด Slot Joker388 เกมสล็อต ออนไลน์นี้มีความสามารถในหลายๆด้านจึงสามารถเป็นที่ดึงดูดตา",
   "repository": "https://github.com/gullibles-02/indoor-08",
-  "keywords": ["ไก่ชน","ไก่ชน Slot888"],
+  "keywords": [
+    "ไก่ชน",
+    "ไก่ชน Slot888"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
