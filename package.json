@@ -1,10 +1,13 @@
 {
-  "name": "kQRjVB0pKHklxdtdSlKZeqbORtVwbyKSNoJFXSUoQ2PJ7aypvI",
+  "name": "เว็บไซต์พนัน แตกต่างกันอย่างไร",
   "theme": "syntax",
   "version": "1.0.15",
   "description": "เว็บไซต์พนัน สมัครสล็อตเว็บตรง ที่เต็มไปด้วยสิ่งใหม่ แต่ เว็บไซต์พนัน ที่ Alpha88 เว็บพนัน มีเกมพนันทุกชนิด ที่เห็นผลได้ เว็บไซต์พนัน อย่างเต็มที่มีความลงต",
   "repository": "https://github.com/gullibles-02/indoor-08",
-  "keywords": ["เว็บไซต์พนัน","เว็บไซต์พนัน Alpha88"],
+  "keywords": [
+    "เว็บไซต์พนัน",
+    "เว็บไซต์พนัน Alpha88"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
