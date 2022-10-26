@@ -1,13 +1,10 @@
 {
-  "name": "แทงมวย เล่นที่ไหน",
+  "name": "wDy16N6f4SoOcsh6O3YTB6OHySGSjUUSTzsoj3DMB7zQ3qn9mv",
   "theme": "syntax",
   "version": "1.0.21",
   "description": "แทงมวย ในเบื้องต้น แต่ แทงมวย ที่ Zeagame เว็บพนัน มีเกมพนันทุกชนิด บริษัทได้รับการร้องเรียน แต่ก็เพิกเฉยกับคำคัดค้าน และได้ปล่อยเครื่องจำหน่ายขนมนี้ ออกสู",
   "repository": "https://github.com/gullibles-02/indoor-08",
-  "keywords": [
-    "แทงมวย",
-    "แทงมวย Zeagame"
-  ],
+  "keywords": ["แทงมวย","แทงมวย Zeagame"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
