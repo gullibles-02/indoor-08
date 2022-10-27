@@ -1,10 +1,16 @@
 {
-  "name": "hT2xqO4dFNaA9BTZl4bljGy16UqQ8rrH6iuX5GU3y2dCK10Vjq",
+  "name": "โชค chok แตกต่างกันอย่างไร - เว็บใหม่ ruay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.59",
   "description": "โชค Chok เลขเด็ด ครั้น โชค Chok Ruay รวย หวยออนไลน์ มีหวยทุกชนิด เจ๊นุ๊ก หวยรัฐบาล งวดวันที่ 1765เว็บ ซื้อหวยออนไลน์ เว็บรีวิวหวยออนไลน์ อันดับ 1 ของไทย มี",
   "repository": "https://github.com/gullibles-02/indoor-08",
-  "keywords": ["โชค CHOK","โชค","CHOK","โชค Ruay","CHOK Ruay"],
+  "keywords": [
+    "โชค CHOK",
+    "โชค",
+    "CHOK",
+    "โชค Ruay",
+    "CHOK Ruay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
