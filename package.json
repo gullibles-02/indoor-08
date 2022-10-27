@@ -1,10 +1,16 @@
 {
-  "name": "mOJ1ZORVJsxKqupnnhzrLNKTb0706C9gdidDQvjJpTzj68lJgj",
+  "name": "สถิติหวย 2564 แตกต่างกันอย่างไร - เว็บใหม่ huay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.55",
   "description": "สถิติหวย 2564 ขอแนะนำชุดเลขชุดเลขแนวทางหวยรัฐบาลงวด กับ สถิติหวย 2564 Huay หวยออนไลน์ อันดับหนึ่ง 1862 อีกหลายสำนักให้คอหวยได้พิจารณาเป็นแนวทางในการเสี่ยงโ",
   "repository": "https://github.com/gullibles-02/indoor-08",
-  "keywords": ["สถิติหวย 2564","สถิติหวย","2564","สถิติหวย Huay","2564 Huay"],
+  "keywords": [
+    "สถิติหวย 2564",
+    "สถิติหวย",
+    "2564",
+    "สถิติหวย Huay",
+    "2564 Huay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
