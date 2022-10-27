@@ -1,10 +1,13 @@
 {
-  "name": "ThvOx8PfiwW2d5UvM9HtN69Zm56Lmu9DHiPDozDWwZsZCwTObg",
+  "name": "มาวินเบท ที่ไหน - เว็บใหม่ huay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.33",
   "description": "มาวินเบท ผลการออกรางวัล หาก มาวินเบท Huay หวย หวยออนไลน์ มีหวยทุกชนิด หวยฮานอย ( Xổ Số Hà NộI ) หรือ หวยเวียดนาม ( Xổ Số ViệT Nam ) จะออกอรางวัลทุกวันตั้งแ",
   "repository": "https://github.com/gullibles-02/indoor-08",
-  "keywords": ["มาวินเบท","มาวินเบท Huay"],
+  "keywords": [
+    "มาวินเบท",
+    "มาวินเบท Huay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
