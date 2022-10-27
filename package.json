@@ -1,10 +1,13 @@
 {
-  "name": "Z0V4GuxPnaGkGmpZw2OLJ2LS7OhPk9WOz5PukWLPuuI1mlAJWO",
+  "name": "หวยออนไลน์24 ที่ไหน - เว็บใหม่ huay24 2023 ล่าสุด-",
   "theme": "syntax",
   "version": "1.0.26",
   "description": "หวยออนไลน์24 ใครเคยเป็นแบบนี้บ้างไหม แม้ หวยออนไลน์24 Huay24 หวย24 หวยออนไลน์ มีหวยทุกชนิด อาการอึดอัดคล้ายกับมีอะไรบางสิ่งบางอย่าง กดทับทำให้ร่างกายขยับเค",
   "repository": "https://github.com/gullibles-02/indoor-08",
-  "keywords": ["หวยออนไลน์24","หวยออนไลน์24 Huay24"],
+  "keywords": [
+    "หวยออนไลน์24",
+    "หวยออนไลน์24 Huay24"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
