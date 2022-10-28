@@ -1,10 +1,20 @@
 {
-  "name": "KyHTxObBHD5xlfpGjGxAEzT9nTMXDHAlhyA0X303LGhAOqgLuv",
+  "name": "เว็บหวย จ่าย บาทละ 98 ที่ไหน - เว็บใหม่ huay happy 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.79",
   "description": "เว็บหวย จ่าย บาทละ 98 ชุดเลข และ เว็บหวย จ่าย บาทละ 98 Huay Happy หวยแฮปปี้ หวยออนไลน์ มีหวยทุกชนิด เว็บหวย จ่าย บาทละ 98 2 ตัวล่าง25 28 20วิ่งบน 2920 128ส",
   "repository": "https://github.com/gullibles-02/indoor-08",
-  "keywords": ["เว็บหวย จ่าย บาทละ 98","เว็บหวย","จ่าย","บาทละ","98","เว็บหวย Huay Happy","จ่าย Huay Happy","บาทละ Huay Happy","98 Huay Happy"],
+  "keywords": [
+    "เว็บหวย จ่าย บาทละ 98",
+    "เว็บหวย",
+    "จ่าย",
+    "บาทละ",
+    "98",
+    "เว็บหวย Huay Happy",
+    "จ่าย Huay Happy",
+    "บาทละ Huay Happy",
+    "98 Huay Happy"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
