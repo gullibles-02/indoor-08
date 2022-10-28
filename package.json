@@ -1,10 +1,13 @@
 {
-  "name": "vil24IT3mcknRwd97bt9CZCJcYUM0zjndtRcHoNBLBURUEKnZD",
+  "name": "เว็บดูหวยฮานอย เล่นที่ไหน - เว็บใหม่ huay24 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.85",
   "description": "เว็บดูหวยฮานอย ผิด ก่อน เว็บดูหวยฮานอย Huay24 หวย24 หวยออนไลน์ มีหวยทุกชนิด 1 สูตร จะได้เลข เว็บดูหวยฮานอย 21 ชุดดังนี้01-02-03-04-05-07-0815-18-1925-28-29",
   "repository": "https://github.com/gullibles-02/indoor-08",
-  "keywords": ["เว็บดูหวยฮานอย","เว็บดูหวยฮานอย Huay24"],
+  "keywords": [
+    "เว็บดูหวยฮานอย",
+    "เว็บดูหวยฮานอย Huay24"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
