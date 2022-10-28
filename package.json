@@ -1,10 +1,13 @@
 {
-  "name": "gYGhGmxe1BTCp2fBCosNjmo5o4caapbIh7y4qmNrfiYqauq8hD",
+  "name": "สถิติหวย ดูที่ไหน - เว็บใหม่ 999lucky 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.96",
   "description": "สถิติหวย ผลการออกรางวัล เท่ากับ สถิติหวย 999Lucky ลัคกี้ หวยออนไลน์ มีหวยทุกชนิด หวยฮานอย สถิติหวย ( Xổ Số Hà NộI ) ทั้ง 3 แบบ ฮานอย ปกติฮานอย พิเศษฮานอย V",
   "repository": "https://github.com/gullibles-02/indoor-08",
-  "keywords": ["สถิติหวย","สถิติหวย 999Lucky"],
+  "keywords": [
+    "สถิติหวย",
+    "สถิติหวย 999Lucky"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
