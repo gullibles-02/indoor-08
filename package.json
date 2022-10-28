@@ -1,10 +1,13 @@
 {
-  "name": "nfthAG9zdVHlHYvNyHZuvLwyE8m9A7RoCee2HuFpodi8MSZFmh",
+  "name": "เที่ยวไมอามี่ ที่ไหน - เว็บใหม่ tiger789 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.81",
   "description": "เที่ยวไมอามี่ เนื่องจากว่าฟรีสปินเป็นการได้สปินหรือพนันในเกมสล็อตนั้นๆแบบฟรีๆไม่เสียตังค์พนัน ทั้งนี้ เที่ยวไมอามี่ ที่ Tiger789 เว็บพนัน มีเกมพนันทุกชนิด ",
   "repository": "https://github.com/gullibles-02/indoor-08",
-  "keywords": ["เที่ยวไมอามี่","เที่ยวไมอามี่ Tiger789"],
+  "keywords": [
+    "เที่ยวไมอามี่",
+    "เที่ยวไมอามี่ Tiger789"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
